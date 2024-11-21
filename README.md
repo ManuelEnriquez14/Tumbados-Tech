@@ -37,12 +37,12 @@
 
 ### **Requisitos previos:**
 1. Java 17 o superior instalado.
-2. PostgreSQL configurado con la base de datos `Gaming_Leagues`.
+2. Mysql configurado con la base de datos `unison_almecen`.
 3. Maven instalado o integrado en tu IDE.
 
 ### **Pasos de instalación:**
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tumbados-tech.git
+   git clone https://github.com/ManuelEnriquez14/Tumbados-Tech.git
    cd tumbados-tech
