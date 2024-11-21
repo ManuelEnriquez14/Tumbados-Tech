@@ -37,7 +37,7 @@
 
 ### **Requisitos previos:**
 1. Java 17 o superior instalado.
-2. Mysql configurado con la base de datos `unison_almecen`.
+2. Mysql configurado con la base de datos `unison_almacen`.
 3. Maven instalado o integrado en tu IDE.
 
 ### **Pasos de instalación:**
